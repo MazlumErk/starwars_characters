@@ -14,6 +14,11 @@ https://swapi.dev
 
 # App Images
 
+<img
+  src="app_images/Screenshot_1678620536.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![My Image](app_images/Screenshot_1678620536.png)
 ![My Image](app_images/Screenshot_1678620542.png)
 ![My Image](app_images/Screenshot_1678620539.png)
