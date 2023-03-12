@@ -11,3 +11,7 @@ https://swapi.dev
 3. hive: ^2.2.3
 4. hive_flutter: ^1.1.0
 5. http: ^0.13.5
+
+# App Images
+
+![My Image](app_images/Screenshot_1678620536.png)
